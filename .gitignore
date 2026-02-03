@@ -1,0 +1,35 @@
+# Virtual Environment
+tf-env/
+
+# Dataset files (too large for GitHub)
+cats_and_dogs_filtered.zip
+cats_and_dogs_filtered/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files (if large)
+*.h5
+*.keras
+
+# Keep the notebook, README, requirements, test image
+# Image-Classifier.ipynb
+# README.txt
+# requirements.txt
+# test_image.jpg
